@@ -183,7 +183,7 @@
     </p>
 
     <div class="footer">
-        <p>© 205 Lepton Health. All rights reserved.</p>
+        <p>© 2026 Lepton Health. All rights reserved.</p>
     </div>
 
 </body>
