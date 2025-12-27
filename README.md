@@ -1,1 +1,1 @@
-# blood-pressure-privacy-policy
+# Blood-Pressure-App-Privacy-Policy
